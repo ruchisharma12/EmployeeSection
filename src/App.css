@@ -1,0 +1,94 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+/* .whole {
+  border: 3px solid #fff;
+  padding: 5vmax;
+  display: flex;
+  flex-direction: column;
+  /* flex-basis: 100px; */
+
+
+
+/* .child-left {
+  width: 20%;
+  float: left;
+  padding: 20px;
+  border: 2px solid red;
+} */
+
+/* .child-right {
+  width: 80%;
+  float: right;
+  padding: 20px;
+  border: 2px solid blue;
+}  */
+
+
+/* .parent { */
+/* border: 3px solid #f6f6f6; */
+/* padding: 1vmax 2 vmax;
+  display: flex;
+  flex-direction: row;
+  flex-basis: 5vmax;
+
+
+} */
+/* 
+.baby-left {
+  width: 15%;
+  float: left;
+  padding: 1rem;
+  border: 1rem solid rgb(116, 109, 109);
+}
+
+.baby-right {
+  width: 78%;
+  float: right;
+  padding: 1rem;
+  border: 1rem solid rgb(63, 159, 94);
+} */
+
+.App {
+  /* text-align: center; */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* .MuiTableCell-root{border-bottom: none !important; }  */
